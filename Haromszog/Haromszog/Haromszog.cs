@@ -15,21 +15,20 @@ namespace haromszog
             c = c_;
         }
 
-        public bool Szerkesztheto()
+        public bool szerkesztheto()
         {
-            if (a + b > c && a + c > b && b + c > a) 
-            return true;
+            if (a + b > c && a + c > b && b + c > a) return true;
             throw new HaromszogException();
         }
 
-        public double Kerulet()
+        public double kerulet()
         {
             return a + b + c;
         }
 
-        public double Terulet()
+        public double terulet()
         {
-            double s = Kerulet() / 2;
+            double s = kerulet() / 2;
             return Math.Sqrt(s * (s - a) * (s - b) * (s - c));
         }
     }

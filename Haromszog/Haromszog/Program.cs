@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Haromszog
+namespace haromszog
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

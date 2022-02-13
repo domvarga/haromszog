@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\Haromszog.csproj": {}
+    "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\haromszog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\Haromszog.csproj": {
+    "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\haromszog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\Haromszog.csproj",
-        "projectName": "Haromszog",
-        "projectPath": "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\Haromszog.csproj",
+        "projectUniqueName": "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\haromszog.csproj",
+        "projectName": "haromszog",
+        "projectPath": "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\haromszog.csproj",
         "packagesPath": "C:\\Users\\domiv\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\domiv\\source\\repos\\haromszog\\Haromszog\\Haromszog\\obj\\",
         "projectStyle": "PackageReference",
