@@ -31,5 +31,11 @@ namespace haromszog
             double s = kerulet() / 2;
             return Math.Sqrt(s * (s - a) * (s - b) * (s - c));
         }
+
+        public double magassag()
+        {
+            double s = a+b+c;
+            return s / 2; 
+        }
     }
 }

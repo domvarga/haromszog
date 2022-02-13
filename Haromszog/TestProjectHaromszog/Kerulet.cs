@@ -19,7 +19,7 @@ namespace TestProjectHaromszog
         }
 
         [TestMethod]
-        [DataRow(10, 10, 10, 30.000001)]
+        [DataRow(10, 10, 10, 30)]
         [DataRow(2, 9, 8, 20)]
         [DataRow(9823, 121, 9811, 0)]
         public void KeruletIncorrect(double a, double b, double c, double expected)
